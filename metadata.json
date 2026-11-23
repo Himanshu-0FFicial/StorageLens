@@ -1,0 +1,6 @@
+{
+  "name": "StorageLens",
+  "description": "Offline Android storage analyzer, junk cleaner, and file manager built with Jetpack Compose and Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

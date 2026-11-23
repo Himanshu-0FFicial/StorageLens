@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StorageLens</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_cleaner">Cleaner</string>
+    <string name="nav_files">Files</string>
+    <string name="action_rescan">Rescan</string>
+    <string name="action_cancel_scan">Cancel</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="action_grant_access">Grant Access</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_share">Share</string>
+    <string name="action_open">Open</string>
+    <string name="action_details">Details</string>
+    <string name="action_new_folder">New Folder</string>
+    <string name="permission_rationale_title">Storage Access Needed</string>
+    <string name="permission_rationale_body">StorageLens needs storage access to measure category usage, find large or temporary files, and let you browse and organize folders. Everything stays 100% offline on your device.</string>
+    <string name="permission_limited_title">Limited Mode Active</string>
+    <string name="permission_limited_body">Full storage access is not granted. You can still inspect app cache and media via system scope, or grant full access in Settings for complete folder browsing and junk cleaning.</string>
+    <string name="system_cache_note">Android does not allow third-party apps to clear other apps\' caches directly. Use system Storage settings to manage app-specific caches safely.</string>
+    <string name="open_system_storage">System Storage Settings</string>
+</resources>
